@@ -1,0 +1,8 @@
+name: Lucy_FLY
+version: '0.1'
+main: kr.lucymc.here.lucy_fly.Lucy_FLY
+api-version: 1.19
+load: STARTUP
+softdepend: [PlaceholderAPI]
+commands:
+  플라이:
